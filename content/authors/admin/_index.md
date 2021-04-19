@@ -1,6 +1,6 @@
 ---
 title: Tianbao Xie
-role: Undergraduate in Harbin Insitute of Technology
+role: Undergraduate in Harbin Institute of Technology
 avatar_filename: avatar.jpg
 bio: My research interests include Artificial Intelligence, Computational
   Linguistics,  Natural Language Processing, Dialogue System and Sematic
