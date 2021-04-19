@@ -1,7 +1,7 @@
 ---
 title: Tianbao Xie
 role: Undergraduate in Harbin Insitute of Technology
-avatar_filename: photo.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Artificial Intelligence, Computational
   Linguistics,  Natural Language Processing, Dialogue System and Sematic
   Parsing.
@@ -9,14 +9,14 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Natural Language Processing
-  - Dialogue System and Sematic Parsing.
+  - Language Understanding Dialogue System.
 social:
   - icon: envelope
     icon_pack: fas
     link: tianbaoxiexxx@gmail.com
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com.hk/citations?view_op=new_articles&hl=zh-CN&imq=Xie+Tianbao#g
+    link: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=8sdGK_0AAAAJ
   - icon: github
     icon_pack: fas
     link: https://github.com/timothyxxx
@@ -25,19 +25,13 @@ social:
     link: https://www.linkedin.com/
 organizations:
   - name: Harbin Institue of Technology
-    url: http://www.hit.edu.cn/
+    url: http://en.hit.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: BSc in Computer Science
+      institution: Harbin Institute of Technology
+      year: 2020
+email: tianbaoxiexxx@gmail.com
 superuser: true
 highlight_name: false
 ---
