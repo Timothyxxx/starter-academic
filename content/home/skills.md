@@ -24,7 +24,7 @@ feature:
   icon: math
   icon_pack: "custom"
   name: Math and Modeling
-- description: Have to admit Python is a need for human today. I learned Python since i the first year of college, and taught many student (including students from overseas) to use it.
+- description: Have to admit Python is a need for human today. I learned Python since the first year of college, and taught many student (including students from overseas) to use it.
   icon: python
   icon_pack: "custom"
   name: Python
