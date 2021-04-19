@@ -35,8 +35,6 @@ email: tianbaoxiexxx@gmail.com
 superuser: true
 highlight_name: false
 ---
-Hi! I'm Tianbao Xie(谢天宝), an undergraduate student in [Harbin Institute of Technology](https://scholar.google.com.hk/citations?view_op=view_org&hl=zh-CN&org=4726995703083099959), China. My major is Computer Science (Natural Language Processing for ). I have been a research intern in <!--StartFragment-->
+Hi! I'm Tianbao Xie(谢天宝), an undergraduate student in [Harbin Institute of Technology](en.hit.edu.cn), China. My major is Computer Science (Natural Language Processing for ). I have been a research intern in [Research Center for Social Computing and Information Retrieval(SCIR)](http://ir.hit.edu.cn/), [Harbin Institute of Technology](en.hit.edu.cn), China
 
-Research Center for Social Computing and Information Retrieval, [Harbin Institute of Technology](https://scholar.google.com.hk/citations?view_op=view_org&hl=zh-CN&org=4726995703083099959), China
-
- for more than one year, supervised by PhD. candidate [Libo Qin](http://ir.hit.edu.cn/~lbqin/) whose adviser is [Wanxiang Che](http://ir.hit.edu.cn/~car/). One of our work was accepted to IJCAI 2021 (Survey Track). And our underreviewed work received high marks in ACL 2021.<!--EndFragment-->
+ for more than one year, supervised by PhD. candidate [Libo Qin](http://ir.hit.edu.cn/~lbqin/) whose adviser is [Wanxiang Che](http://ir.hit.edu.cn/~car/). One of our work was accepted to IJCAI 2021 (Survey Track). And our underreviewed work received high marks in ACL 2021.
