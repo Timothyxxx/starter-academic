@@ -9,7 +9,8 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Natural Language Processing
-  - Language Understanding Dialogue System.
+  - Language Understanding 
+  - Dialogue System.
 social:
   - icon: envelope
     icon_pack: fas
