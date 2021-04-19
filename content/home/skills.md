@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics and Modeling
 - description: Have to admit Python is a need for human today. I learned Python since i the first year of college, and taught many student (including students from overseas) to use it.
-  icon: camera-retro
+  icon: python
   icon_pack: "custom"
   name: Python
 - description: As a fast growing package tool for NLP field, it is a need to Looking at problems on the shoulders of giants. I companied its growth since its 3.0 version, and use it for many times we want to add pre-trained models/baselines in our work. 
