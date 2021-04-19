@@ -34,7 +34,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: "A Survey on Spoken Language Understanding: Recent Advances and New
-  FrontiersAn example conference paper"
+  Frontiers"
 doi: ""
 featured: true
 tags: []
