@@ -13,7 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: tianbaoxiexxx@gmail.com
+    link: tomail:tianbaoxiexxx@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=8sdGK_0AAAAJ
