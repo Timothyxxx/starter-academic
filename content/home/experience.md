@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: Research Center for Social Computing and Information Retrieval (SCIR), HIT
     company_url: ''
-    company_logo: HIT
+    company_logo: hit
     location: Harbin, China
     date_start: '2020-03-05'
     date_end: ''
