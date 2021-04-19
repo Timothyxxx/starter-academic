@@ -1,9 +1,9 @@
 ---
 abstract: "Spoken Language Understanding (SLU) aims to extract the semantics
   frame of user queries, which is a core component in a task-oriented dialog
-  sys\x02tem. With the burst of deep neural networks and the evolution of
+  system. With the burst of deep neural networks and the evolution of
   pre-trained language models, the research of SLU has obtained significant
-  break\x02throughs. However, there remains a lack of a comprehensive survey
+  breakthroughs. However, there remains a lack of a comprehensive survey
   summarizing existing appproaches and recent trends, which motivated the work
   presented in this article. In this paper, we survey recent advances and new
   frontiers in SLU. Specifically, we give a thorough review of this research
@@ -17,7 +17,7 @@ abstract: "Spoken Language Understanding (SLU) aims to extract the semantics
   researchers could directly access to the recent progress. We hope that this
   survey can shed a light on future research in SLU field.\n"
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2103.03095.pdf"
 publication_types:
   - "1"
 authors:
@@ -45,7 +45,7 @@ image:
   preview_only: false
 date: 2013-07-01T00:00:00Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2021-05-20T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
