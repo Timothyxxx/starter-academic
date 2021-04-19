@@ -20,10 +20,10 @@ feature:
   icon: pytorch
   icon_pack: "custom"
   name: PyTorch
-- description: I participate relevant lessons, receieving good grades. I also won first prize in CUMCM(Contemporary Undergraduate Mathematical Contest in Modeling) contests. 
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics and Modeling
+- description: I participate relevant lessons and receied good grades.I also won Meritorious Winner in MCM (Mathematical Contest In Modeling, America) and First-Prize in CUMCM(Contemporary Undergraduate Mathematical Contest in Modeling, China). 
+  icon: math
+  icon_pack: "custom"
+  name: Math and Modeling
 - description: Have to admit Python is a need for human today. I learned Python since i the first year of college, and taught many student (including students from overseas) to use it.
   icon: python
   icon_pack: "custom"
@@ -36,6 +36,10 @@ feature:
   icon: java
   icon_pack: "custom"
   name: JAVA
+- description: My friends always say that I am a hitting-the-books-man (too much hardworking). But I am more tend to call this mature, highly self-motivated and anti-strike. I try to be a man who can make contributions and change the world. All rely on my good liver though.
+  icon: gan
+  icon_pack: "custom"
+  name: 	Strong in mind
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
