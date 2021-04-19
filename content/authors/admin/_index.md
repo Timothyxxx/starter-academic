@@ -30,7 +30,7 @@ education:
   courses:
     - course: BSc in Computer Science
       institution: Harbin Institute of Technology
-      year: 2020
+      year: 2022
 email: tianbaoxiexxx@gmail.com
 superuser: true
 highlight_name: false
