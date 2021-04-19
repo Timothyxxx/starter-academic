@@ -14,7 +14,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: tomail:tianbaoxiexxx@gmail.com
+    link: mailto:tianbaoxiexxx@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=8sdGK_0AAAAJ
@@ -37,4 +37,4 @@ superuser: true
 highlight_name: false
 ---
 Hello 🤗! 
-I'm Tianbao Xie, an undergraduate student in [Harbin Institute of Technology](http://en.hit.edu.cn/), China. My major is Computer Science (Natural Language Processing for ). I have been a research intern in [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/), [Harbin Institute of Technology](http://en.hit.edu.cn/) for more than one year, supervised by PhD. candidate [Libo Qin](http://ir.hit.edu.cn/~lbqin/) whose adviser is [Wanxiang Che](http://ir.hit.edu.cn/~car/). One of our work has been accepted to IJCAI 2021 (Survey Track). And our under-reviewed work received high marks in ACL 2021.
+I'm Tianbao Xie, an undergraduate student in [Harbin Institute of Technology](http://en.hit.edu.cn/), China. My major is Computer Science (Natural Language Processing for ). I have been a research intern in [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/), [Harbin Institute of Technology](http://en.hit.edu.cn/) for more than one year, supervised by Ph.D candidate [Libo Qin](http://ir.hit.edu.cn/~lbqin/) whose adviser is [Wanxiang Che](http://ir.hit.edu.cn/~car/). One of our work has been accepted in IJCAI 2021 (Survey Track). Another under-review work received high marks in ACL 2021.
