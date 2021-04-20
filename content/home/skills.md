@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: PyTorch is my major framework used in my implement of ideas. I learned(and will be continue to learn) important details of it.
+- description: PyTorch is my major framework used in implement of ideas. I wrote thousands of PyTorch Code during the following and implemnts, learned(and will be continue to learn) important details of it.
   icon: pytorch
   icon_pack: "custom"
   name: PyTorch
@@ -24,7 +24,7 @@ feature:
   icon: math
   icon_pack: "custom"
   name: Math and Modeling
-- description: Have to admit Python is a need for human today. I learned Python since the first year of college, and taught many student (including students from overseas) to use it.
+- description: Have to admit Python is a need for people today. I learned Python since the first year of college, and taught many student (including students from overseas) to use it. Evert time I realized that work can be generalized and automated instead of human-experience needed, I will always write a script(Python or shell) to free my hand. 
   icon: python
   icon_pack: "custom"
   name: Python
