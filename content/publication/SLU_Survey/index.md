@@ -17,14 +17,14 @@ abstract: "Spoken Language Understanding (SLU) aims to extract the semantics
   researchers could directly access to the recent progress. We hope that this
   survey can shed a light on future research in SLU field.\n"
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2103.03095"
 publication_types:
   - "1"
 authors:
   - Libo Qin
   - Tianbao Xie
   - Wanxiang Che
-  - Ting Liu.
+  - Ting Liu
 author_notes: []
 publication: In *IJCAI 2021 (Survey Track)*
 summary: ""
@@ -45,7 +45,7 @@ image:
   preview_only: false
 date: 2021-05-01T00:00:00Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2021-05-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
