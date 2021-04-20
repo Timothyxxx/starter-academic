@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Natrual Language Processing
-    tag: Natrual Language Processing
+  - name: Natural Language Processing
+    tag: Natural Language Processing
   - name: IoT
     tag: IoT
   - name: Others
