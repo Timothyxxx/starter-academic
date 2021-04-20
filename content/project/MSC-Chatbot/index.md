@@ -2,7 +2,7 @@
 title: MSC-Chatbot
 summary: A dialogue robot made for our Microsoft Student Club.
 tags:
-- Natural Language Understanding
+- Natural Language Processing
 date: "2020-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

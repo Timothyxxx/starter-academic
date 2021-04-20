@@ -2,7 +2,7 @@
 title: Awesome-SLU-Survey
 summary: This repository contains a list of papers, codes, datasets, leaderboards in SLU field. If you found any error, please don't hesitate to open an issue or pull request.
 tags:
-- Natural Language Understanding
+- Natural Language Processing
 date: "2021-02-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

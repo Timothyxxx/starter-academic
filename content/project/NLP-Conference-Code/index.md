@@ -2,7 +2,7 @@
 title: NLP-Conference-Code
 summary: This project records the papers and open source project collections of NLP related top conferences (such as ACL, emnlp, naacl, coling, AAAI, IJCAI)
 tags:
-- Natural Language Understanding
+- Natural Language Processing
 date: "2020-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
