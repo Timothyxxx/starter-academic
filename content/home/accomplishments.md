@@ -3,30 +3,47 @@ widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: ""
     date_end: ""
-    date_start: 2021-01-25
+    date_start: 2019-10-01
     description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: Ministry of Education, China
+    organization_url: ""
+    title: National Scholarship
     url: ""
-  - certificate_url: https://www.edx.org
+  - certificate_url: ""
     date_end: ""
-    date_start: 2021-01-01
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: 2020-12-21
-    date_start: 2020-07-01
+    date_start: 2020-04-01
     description: ""
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: Object-Oriented Programming in R
+    organization: Consortium for Mathematics and Its Application, America
+    organization_url: "https://www.comap.com/undergraduate/contests/mcm/contests/2020/results/"
+    title: Mathematical Contest in Modeling,Meritorious Winner
     url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2020-09-01
+    description: ""
+    organization: Ministry of Education, China
+    organization_url: "http://www.jienengjianpai.org/"
+    title: National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction), Second Prize
+    url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2020-09-01
+    description: ""
+    organization: China Society for Industrial and Applied Mathematics
+    organization_url: "http://www.mcm.edu.cn/"
+    title: Contemporary Undergraduate Mathematical Contest in Modeling, First Prize
+    url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2020-10-01
+    description: ""
+    organization: Ministry of Education, China
+    organization_url: ""
+    title: National Scholarship
+    url: ""
+
 widget_id: accomplishments
 headless: true
 weight: 50
