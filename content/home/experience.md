@@ -29,7 +29,7 @@ experience:
     location: Harbin, China
     date_start: '2020-03-05'
     date_end: ''
-    description: Will be add later
+    description: SCIR ranks top-5 in NLP of the world according to csranking. It's my greatest honor to be guided by Qin and I learnt a lot during his guidance and our cooperation.
         
   - title: Undergraduate Student
     company: Harbin Institute of Technology
@@ -38,7 +38,7 @@ experience:
     location: Harbin, China
     date_start: '2018-08-15'
     date_end: ''
-    description: Will be add later
+    description: Harbin Insititue is one of the best schools in China(C9 League). It's my honor to study here during my undergraduate days. Thanks to the fund of Honor School!
 
 design:
   columns: '2'

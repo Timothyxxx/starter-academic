@@ -5,6 +5,14 @@ date_format: Jan 2006
 item:
   - certificate_url: ""
     date_end: ""
+    date_start: 2019-05-01
+    description: ""
+    organization: Harbin Institute of Technology
+    organization_url: ""
+    title: Excellent League Member, Model
+    url: ""
+  - certificate_url: ""
+    date_end: ""
     date_start: 2019-10-01
     description: ""
     organization: Ministry of Education, China
@@ -13,11 +21,27 @@ item:
     url: ""
   - certificate_url: ""
     date_end: ""
+    date_start: 2019-12-01
+    description: ""
+    organization: Harbin Institute of Technology
+    organization_url: ""
+    title: Excellent Student Leader, Model
+    url: ""
+  - certificate_url: ""
+    date_end: ""
     date_start: 2020-04-01
     description: ""
     organization: Consortium for Mathematics and Its Application, America
     organization_url: "https://www.comap.com/undergraduate/contests/mcm/contests/2020/results/"
     title: Mathematical Contest in Modeling,Meritorious Winner
+    url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2020-07-01
+    description: ""
+    organization: MSRA, Academic cooperation Department
+    organization_url: "https://www.msra.cn/zh-cn/connections"
+    title: Excellent Club Leader
     url: ""
   - certificate_url: ""
     date_end: ""
