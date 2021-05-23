@@ -42,7 +42,7 @@ My major is Computer Science (stream to Natural Language Processing in third yea
 I have been a student research intern in [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/), [Harbin Institute of Technology](http://en.hit.edu.cn/) for more than one year, 
 supervised by Ph.D candidate [Libo Qin](http://ir.hit.edu.cn/~lbqin/) whose adviser is Prof. [Wanxiang Che](http://ir.hit.edu.cn/~car/). 
 
-News.
+Recent progress💡.
 
 2021-05, I am accepted and will join [Hong Kong University CS Department](https://www.cs.hku.hk/) as an incoming PhD in 2022 guided by Dr. [Tao Yu](https://taoyds.github.io/).
 
