@@ -37,9 +37,16 @@ superuser: true
 highlight_name: false
 ---
 Hello 🤗! 
-I'm Tianbao Xie, an undergraduate student in [Harbin Institute of Technology](http://en.hit.edu.cn/) and I have been accepted to [Hong Kong University CS Department](https://www.cs.hku.hk/) as an incoming PhD in 2022 guided by Dr. [Tao Yu](https://taoyds.github.io/). 
+I'm Tianbao Xie, an undergraduate student in [Harbin Institute of Technology](http://en.hit.edu.cn/). 
 My major is Computer Science (stream to Natural Language Processing in third year). 
 I have been a student research intern in [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/), [Harbin Institute of Technology](http://en.hit.edu.cn/) for more than one year, 
 supervised by Ph.D candidate [Libo Qin](http://ir.hit.edu.cn/~lbqin/) whose adviser is Prof. [Wanxiang Che](http://ir.hit.edu.cn/~car/). 
 
-One of our work has been accepted in IJCAI 2021 (Survey Track). Another work has been accepted to ACL 2021.
+News.
+
+2021-05, I am accepted and will join [Hong Kong University CS Department](https://www.cs.hku.hk/) as an incoming PhD in 2022 guided by Dr. [Tao Yu](https://taoyds.github.io/).
+
+2021-05, One of our work has been accepted to ACL 2021.
+
+2021-04, One of our work has been accepted in IJCAI 2021 (Survey Track). 
+
