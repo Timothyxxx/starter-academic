@@ -37,7 +37,7 @@ superuser: true
 highlight_name: false
 ---
 I am currently a third-year undergraduate student in [Harbin Institute of Technology](http://en.hit.edu.cn/). 
-My major is Computer Science (stream to Natural Language Processing in third year). 
+My major is Computer Science (stream to Natural Language Processing in the third year). 
 I have done research intern at [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/), [Harbin Institute of Technology](http://en.hit.edu.cn/), 
 supervised by Ph.D. candidate [Libo Qin](http://ir.hit.edu.cn/~lbqin/) and Prof. [Wanxiang Che](http://ir.hit.edu.cn/~car/). 
 
