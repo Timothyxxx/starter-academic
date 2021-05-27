@@ -39,13 +39,13 @@ highlight_name: false
 I am currently a third-year undergraduate student in [Harbin Institute of Technology](http://en.hit.edu.cn/). 
 My major is Computer Science (stream to Natural Language Processing in third year). 
 I have done research intern at [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/), [Harbin Institute of Technology](http://en.hit.edu.cn/), 
-supervised by Ph.D candidate [Libo Qin](http://ir.hit.edu.cn/~lbqin/) and Prof. [Wanxiang Che](http://ir.hit.edu.cn/~car/). 
+supervised by Ph.D. candidate [Libo Qin](http://ir.hit.edu.cn/~lbqin/) and Prof. [Wanxiang Che](http://ir.hit.edu.cn/~car/). 
 
 Recent progress💡.
 
-2021-05, I will be joining [The University of Hong Kong CS Department](https://www.cs.hku.hk/) as an incoming PhD in 2022 Fall guided by Dr. [Tao Yu](https://taoyds.github.io/) and Dr. [Lingpeng Kong](https://ikekonglp.github.io/).
+2021-05, I will be joining [The University of Hong Kong CS Department](https://www.cs.hku.hk/) as an incoming Ph.D. in 2022 Fall guided by Dr. [Tao Yu](https://taoyds.github.io/) and Dr. [Lingpeng Kong](https://ikekonglp.github.io/).
 
 2021-05, One of our work has been accepted to ACL 2021.
 
-2021-04, One of our work has been accepted in IJCAI 2021 (Survey Track). 
+2021-04, One of our work has been accepted to IJCAI 2021 (Survey Track). 
 
