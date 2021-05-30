@@ -43,7 +43,7 @@ supervised by Ph.D. candidate [Libo Qin](http://ir.hit.edu.cn/~lbqin/) and Prof.
 
 Recent progress💡.
 
-2021-05, I will be joining [The University of Hong Kong CS Department](https://www.cs.hku.hk/) as an incoming Ph.D. in 2022 Fall guided by Dr. [Tao Yu](https://taoyds.github.io/) and Dr. [Lingpeng Kong](https://ikekonglp.github.io/).
+2021-05, I will be joining [NLP Group](https://nlp.cs.hku.hk/) the [Department of Computer Science at the University of Hong Kong.](https://www.cs.hku.hk/) as an incoming Ph.D. in 2022 Fall guided by Dr. [Tao Yu](https://taoyds.github.io/) and Dr. [Lingpeng Kong](https://ikekonglp.github.io/).
 
 2021-05, One of our work has been accepted to ACL 2021.
 
