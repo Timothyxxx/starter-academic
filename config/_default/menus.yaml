@@ -25,4 +25,4 @@ main:
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/CV_TianbaoXie.pdf
-    weight: 60
+    weight: 90
