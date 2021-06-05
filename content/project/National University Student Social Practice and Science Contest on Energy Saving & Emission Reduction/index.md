@@ -1,6 +1,6 @@
 ---
 title: Smart-heating
-summary: This our work on National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction, China 2020. In general it's a device which can utilize heating installations act as air-conditioner by predicting the temperature and analyzing user's using pattern (also relies on the hardware, which we made some patent of our designed tap), for saving energy in Northest of China in winter.
+summary: This is our work on National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction, China 2020. In general it's a device which can utilize heating installations act as air-conditioner by predicting the temperature and analyzing user's using pattern (also relies on the hardware, which we made some patent of our designed tap), for saving energy in Northest of China in winter.
 tags:
 - IoT
 date: "2020-09-01T00:00:00Z"
