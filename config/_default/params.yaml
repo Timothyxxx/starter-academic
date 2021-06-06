@@ -97,7 +97,7 @@ copyright_license:
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 abstract_length: 135
-plugins_js: []
+plugins_js: [<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=h_S6XSGi5US7w8_FbhExr-JhHhAKmP_GLsn-AD4nyZA"></script>]
 avatar:
   gravatar: false
   shape: circle
