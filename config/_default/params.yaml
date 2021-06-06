@@ -132,8 +132,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
-  api_key: ''
+  provider: '//cdn.clustrmaps.com/map_v2.js'
+  api_key: 'cl=ffffff&w=a&t=n&d=h_S6XSGi5US7w8_FbhExr-JhHhAKmP_GLsn-AD4nyZA'
   zoom: 15
 marketing:
   google_analytics: ''
