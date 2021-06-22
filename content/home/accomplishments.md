@@ -5,14 +5,6 @@ date_format: Jan 2006
 item:
   - certificate_url: ""
     date_end: ""
-    date_start: 2019-05-01
-    description: ""
-    organization: Harbin Institute of Technology
-    organization_url: ""
-    title: Excellent League Member, Model
-    url: ""
-  - certificate_url: ""
-    date_end: ""
     date_start: 2019-10-01
     description: ""
     organization: Ministry of Education, China
