@@ -15,7 +15,7 @@ summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: ""
+url_source: "https://arxiv.org/abs/2106.01925"
 url_video: ""
 title: "A Survey on Spoken Language Understanding: Recent Advances and New
   Frontiers"
@@ -31,5 +31,5 @@ date: 2021-04-01T00:00:00Z
 url_slides: ""
 publishDate: 2021-04-01T00:00:00Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/yizhen20133868/GL-GIN"
 ---

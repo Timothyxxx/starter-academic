@@ -41,7 +41,7 @@ item:
     description: ""
     organization: Ministry of Education, China
     organization_url: "http://www.jienengjianpai.org/"
-    title: National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction), Second Prize
+    title: National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction, Second Prize
     url: ""
   - certificate_url: ""
     date_end: ""
