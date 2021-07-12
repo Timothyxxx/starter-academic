@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2106.01925"
 publication_types:
   - "1"
 authors:
@@ -15,7 +15,7 @@ author_notes: []
 publication: In the annual meeting of the Association for Computational Linguistic *Proceedings of ACL 2021*
 summary: ""
 url_dataset: ""
-url_project: ""
+url_project: "https://github.com/yizhen20133868/GL-GIN"
 publication_short: ""
 url_source: ""
 url_video: ""
