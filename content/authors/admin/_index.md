@@ -55,3 +55,8 @@ Recent progress💡.
 
 2021-04, One of our work has been accepted to IJCAI 2021 (Survey Track). 
 
+
+Some of my friends🤗:
+
+[Fuxuan Wei](https://awake020.github.io/), [Li Shi](https://xidoo.top). （Others don't have personal website yet.）
+
