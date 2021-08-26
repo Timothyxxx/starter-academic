@@ -41,11 +41,16 @@ My major is Computer Science (stream to Natural Language Processing in the third
 I have done research intern at [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/), [Harbin Institute of Technology](http://en.hit.edu.cn/), 
 supervised by Ph.D. candidate [Libo Qin](http://ir.hit.edu.cn/~lbqin/) and Prof. [Wanxiang Che](http://ir.hit.edu.cn/~car/). 
 
+After that, I will join the [NLP Group](https://nlp.cs.hku.hk/) of the [Department of Computer Science](https://www.cs.hku.hk/) at [the University of Hong Kong](https://www.hku.hk/) as an incoming Ph.D. in 2022 Fall guided by Dr. [Tao Yu](https://taoyds.github.io/) and Dr. [Lingpeng Kong](https://ikekonglp.github.io/).
+
+
 Recent progress💡.
+
+2021-08, One of our work has been accepted to EMNLP 2021 (main).
 
 2021-05, I will be joining the [NLP Group](https://nlp.cs.hku.hk/) of the [Department of Computer Science](https://www.cs.hku.hk/) at [the University of Hong Kong](https://www.hku.hk/) as an incoming Ph.D. in 2022 Fall guided by Dr. [Tao Yu](https://taoyds.github.io/) and Dr. [Lingpeng Kong](https://ikekonglp.github.io/).
 
-2021-05, One of our work has been accepted to ACL 2021.
+2021-05, One of our work has been accepted to ACL 2021 (main).
 
 2021-04, One of our work has been accepted to IJCAI 2021 (Survey Track). 
 
