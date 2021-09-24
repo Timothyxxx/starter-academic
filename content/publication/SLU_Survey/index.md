@@ -13,7 +13,7 @@ author_notes: []
 publication: In *IJCAI 2021 (Survey Track)*
 summary: ""
 url_dataset: ""
-url_project: ""
+url_project: "https://github.com/yizhen20133868/Awesome-SLU-Survey"
 publication_short: ""
 url_source: ""
 url_video: ""
