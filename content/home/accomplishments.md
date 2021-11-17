@@ -61,7 +61,7 @@ item:
     url: ""
   - certificate_url: ""
     date_end: ""
-    date_start: 2019-10-01
+    date_start: 2021-11-01
     description: ""
     organization: Kwang-Hua Education Foundation
     organization_url: ""
