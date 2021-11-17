@@ -37,7 +37,7 @@ experience:
     company_logo: ir
     location: Harbin, China
     date_start: '2020-03-05'
-    date_end: '2021-11-15'
+    date_end: ''
     description: SCIR ranks top-15 in NLP of the world according to csranking. It's my greatest honor to be guided by Qin and I learnt a lot during his guidance and our cooperation.
         
   - title: Undergraduate Student
