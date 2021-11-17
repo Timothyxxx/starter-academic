@@ -23,12 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
+    company: Natural Language Processing Group (HKU-NLP), HKU
+    company_url: ''
+    company_logo: hku
+    location: Hong Kong SAR, China
+    date_start: '2021-05-23'
+    date_end: ''
+    description: Start a new journey under the guidance of Tao and Lingpeng!
+        
+  - title: Research Intern
     company: Research Center for Social Computing and Information Retrieval (SCIR), HIT
     company_url: ''
     company_logo: ir
     location: Harbin, China
     date_start: '2020-03-05'
-    date_end: ''
+    date_end: '2021-11-15'
     description: SCIR ranks top-15 in NLP of the world according to csranking. It's my greatest honor to be guided by Qin and I learnt a lot during his guidance and our cooperation.
         
   - title: Undergraduate Student
