@@ -59,6 +59,14 @@ item:
     organization_url: ""
     title: National Scholarship
     url: ""
+ - certificate_url: ""
+    date_end: ""
+    date_start: 2021-11-01
+    description: ""
+    organization: Kwang-Hua Education Foundation
+    organization_url: ""
+    title: Kwang-Hua Scholarship
+    url: ""
 
 widget_id: accomplishments
 headless: true
