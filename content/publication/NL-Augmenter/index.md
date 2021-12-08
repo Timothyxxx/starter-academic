@@ -34,9 +34,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2021-09-01T00:00:00Z
+date: 2021-12-05T00:00:00Z
 url_slides: ""
-publishDate: 2021-09-01T00:00:00Z
+publishDate: 2021-12-05T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
