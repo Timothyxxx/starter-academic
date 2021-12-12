@@ -47,7 +47,7 @@ experience:
     location: Harbin, China
     date_start: '2018-08-15'
     date_end: ''
-    description: Harbin Insititue is one of the best schools in China(C9 League). It's my honor to study here during my undergraduate days. Thanks to the fund of Honor School!
+    description: Harbin Insititue is one of the best schools in China(C9 League). It's my honor to study here during my undergraduate days. Thanks to the fund of Honors School!
 
 design:
   columns: '2'
