@@ -25,7 +25,7 @@ item:
     description: ""
     organization: Consortium for Mathematics and Its Application, America
     organization_url: "https://www.comap.com/undergraduate/contests/mcm/contests/2020/results/"
-    title: Mathematical Contest in Modeling,Meritorious Winner
+    title: Mathematical Contest in Modeling, Meritorious Winner
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -72,8 +72,8 @@ item:
     date_start: 2021-12-01
     description: ""
     organization: Ministry of Education, China
-    organization_url: ""
-    title: Excellent Student, Top-notch Student Training Plan 2.0
+    organization_url: "http://jcxk.hep.com.cn/"
+    title: Top-notch Student Training Plan 2.0, Excellent Student
     url: ""
 
 widget_id: accomplishments
