@@ -67,6 +67,14 @@ item:
     organization_url: ""
     title: Kwang-Hua Scholarship
     url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2021-12-01
+    description: ""
+    organization: Ministry of Education, China
+    organization_url: ""
+    title: Excellent Student, Top-notch Student Training Plan 2.0
+    url: ""
 
 widget_id: accomplishments
 headless: true
