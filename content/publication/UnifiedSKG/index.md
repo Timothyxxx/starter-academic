@@ -5,8 +5,8 @@ url_pdf: "https://arxiv.org/abs/2201.05966"
 publication_types:
   - "1"
 authors:
-  - Tianbao Xie*
-  - Chen Henry Wu
+  - Tianbao Xie *
+  - Chen Henry Wu *
   - Peng Shi
   - Ruiqi Zhong
   - Torsten Scholak
@@ -28,7 +28,7 @@ authors:
   - Noah A. Smith
   - Luke Zettlemoyer
   - Tao Yu
-
+  - (*: equal contribution)
 author_notes: []
 publication: arxiv
 summary: ""
@@ -36,7 +36,8 @@ url_dataset: "https://unifiedskg.com/"
 url_project: "https://github.com/hkunlp/unifiedskg"
 publication_short: ""
 url_source: ""
-url_videUnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
+url_video: ""
+title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
 doi: ""
 featured: true
 tags: []
