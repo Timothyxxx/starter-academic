@@ -6,15 +6,12 @@ publication_types:
   - "1"
 authors:
   - Kaustubh D. Dhole
-  - ...
+  - And many other authors
+  - And us
   - Wanxiang Che
-  - ...
   - Libo Qin
-  - ...
   - Fuxuan Wei
-  - ...
   - Tianbao Xie
-  - ...
   - Yue Zhang
   - (in alphabetical order)
 author_notes: []

@@ -28,7 +28,7 @@ authors:
   - Noah A. Smith
   - Luke Zettlemoyer
   - Tao Yu
-author_notes: [(*: equal contribution)]
+author_notes: []
 publication: arxiv
 summary: ""
 url_dataset: "https://unifiedskg.com/"
