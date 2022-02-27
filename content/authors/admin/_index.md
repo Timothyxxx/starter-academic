@@ -51,7 +51,7 @@ Recent progress💡.
 
 2021-08, One of our work has been accepted to EMNLP 2021 (main).
 
-Some of my friends🤗:
+Some of my 00s friends🤗:
 
-[Fuxuan Wei](https://awake020.github.io/), [Li Shi](https://xidoo.top). （Others may be too lazy make their websites.）
+[Fuxuan Wei](https://awake020.github.io/)(incoming Master of HIT-SCIR LA, guided by Prof. Wanxiang Che, NLP direction), [Weiyun Wang]()(incoming PhD of Fudan University, guided by Prof.Qi Zhang, NLP direction), [Xinhao Tao]()(incoming Master of SJTU, guided by Prof. Li Niu, CV direction), [Li Shi](https://xidoo.top)(incoming Master of ETHz, Web Security direction). 
 
