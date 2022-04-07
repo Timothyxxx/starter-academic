@@ -75,6 +75,14 @@ item:
     organization_url: "http://jcxk.hep.com.cn/"
     title: Top-notch Student Training Plan 2.0, Excellent Student
     url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2022-04-01
+    description: ""
+    organization: University Grants Committee, Hong Kong
+    organization_url: ""
+    title: Hong Kong PhD Fellowship
+    url: ""
 
 widget_id: accomplishments
 headless: true
