@@ -29,7 +29,7 @@ experience:
     location: Hong Kong SAR, China
     date_start: '2021-05-23'
     date_end: ''
-    description: Start a new journey under the guidance of Tao and Lingpeng!
+    description: Start a new journey under the guidance of Tao and Lingpeng! Thanks to the fund from UGC and HKU for HKPFS and HKU-PS!
         
   - title: Research Intern
     company: Research Center for Social Computing and Information Retrieval (SCIR), HIT
@@ -47,7 +47,7 @@ experience:
     location: Harbin, China
     date_start: '2018-08-15'
     date_end: ''
-    description: Harbin Insititue is one of the best schools in China(C9 League). It's my honor to study here during my undergraduate days. Thanks to the fund of Honors School!
+    description: Harbin Institute of Technology is one of the best schools in China(C9 League). It's my honor to study here during my undergraduate days. Thanks to the fund of Honors School!
 
 design:
   columns: '2'
