@@ -53,5 +53,5 @@ Recent progress💡.
 
 Some of my 00s friends🤗:
 
-[Fuxuan Wei](https://awake020.github.io/)(incoming Master of HIT-SCIR LA, guided by Prof. Wanxiang Che), [Weiyun Wang](http://weiyun-wang.com/)(incoming PhD of Fudan University, guided by Prof.Qi Zhang), [Xinhao Tao]()(incoming Master of SJTU, guided by Prof. Li Niu), [Li Shi](https://xidoo.top)(incoming Master of ETHz, Web Security), [Zhuoning Guo](https://gzn00417.github.io/)(incoming PhD of HKUST, guided by Prof. Hao Liu).
+[Fuxuan Wei](https://awake020.github.io/)(incoming Master of HIT-SCIR LA, guided by Prof. Wanxiang Che), [Weiyun Wang](http://weiyun-wang.com/)(incoming PhD of Fudan University, guided by Prof.Qi Zhang), [Xinhao Tao]()(incoming Master of SJTU, guided by Prof. Li Niu), [Li Shi](https://xidoo.top)(incoming Master of ETHz, Cyber Security), [Zhuoning Guo](https://gzn00417.github.io/)(incoming PhD of HKUST, guided by Prof. Hao Liu).
 
