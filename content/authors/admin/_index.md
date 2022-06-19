@@ -29,7 +29,7 @@ organizations:
     url: http://en.hit.edu.cn/
 education:
   courses:
-    - course: BSc in Computer Science
+    - course: B.Eng. in Computer Science
       institution: Harbin Institute of Technology
       year: 2022
 email: tianbaoxiexxx@gmail.com
