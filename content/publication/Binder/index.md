@@ -17,7 +17,7 @@ authors:
   - Luke Zettlemoyer
   - Noah A. Smith
   - Tao Yu
-author_notes: [*Equal contribution]
+author_notes: []
 publication: arxiv
 summary: ""
 url_dataset: ""
