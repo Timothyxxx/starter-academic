@@ -15,7 +15,7 @@ author_notes: []
 publication: In the annual meeting of the Association for Computational Linguistic *Proceedings of ACL 2021*
 summary: ""
 url_dataset: ""
-url_project: "https://github.com/yizhen20133868/GL-GIN"
+url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
@@ -32,5 +32,5 @@ date: 2021-05-01T00:00:00Z
 url_slides: ""
 publishDate: 2021-05-01T00:00:00Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/yizhen20133868/GL-GIN"
 ---

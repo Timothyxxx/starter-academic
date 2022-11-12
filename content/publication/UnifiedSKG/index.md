@@ -5,8 +5,8 @@ url_pdf: "https://arxiv.org/abs/2201.05966"
 publication_types:
   - "1"
 authors:
-  - Tianbao Xie\*
-  - Chen Henry Wu\*
+  - Tianbao Xie**
+  - Chen Henry Wu**
   - Peng Shi
   - Ruiqi Zhong
   - Torsten Scholak
@@ -29,10 +29,10 @@ authors:
   - Luke Zettlemoyer
   - Tao Yu
 author_notes: []
-publication: arxiv
+publication: Conference on Empirical Methods in Natural Language Processing *EMNLP 2022*, Long paper, Oral
 summary: ""
-url_dataset: "https://unifiedskg.com/"
-url_project: "https://github.com/hkunlp/unifiedskg"
+url_dataset: ""
+url_project: "https://unifiedskg.com/"
 publication_short: ""
 url_source: ""
 url_video: ""
@@ -49,5 +49,5 @@ date: 2022-01-16T00:00:00Z
 url_slides: ""
 publishDate: 2022-01-16T00:00:00Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/hkunlp/unifiedskg"
 ---
