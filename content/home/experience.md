@@ -28,8 +28,8 @@ experience:
     company_logo: hku
     location: Hong Kong SAR, China
     date_start: '2021-05-23'
-    date_end: ''
-    description: Start a new journey under the guidance of Tao and Lingpeng! Thanks to the fund from UGC and HKU for HKPFS and HKU-PS!
+    date_end: '2021-08-28'
+    description: 
         
   - title: Research Intern
     company: Research Center for Social Computing and Information Retrieval (SCIR), HIT
@@ -38,7 +38,7 @@ experience:
     location: Harbin, China
     date_start: '2020-03-05'
     date_end: '2022-06-15'
-    description: SCIR ranks top-5 in NLP of the world in the near 20 years according to csranking. It's my greatest honor to be guided by Qin and I learnt a lot during his guidance and our cooperation.
+    description: 
         
   - title: Undergraduate Student
     company: Harbin Institute of Technology
@@ -47,7 +47,7 @@ experience:
     location: Harbin, China
     date_start: '2018-08-15'
     date_end: '2022-06-15'
-    description: Harbin Institute of Technology is one of the best schools in China(C9 League). It's my honor to study here during my undergraduate days. Thanks to the fund of Honors School!
+    description: 
 
 design:
   columns: '2'

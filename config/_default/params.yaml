@@ -21,17 +21,17 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: tianbaoxiexxx@gmail.com
-phone: +86 17766519188
+phone: 5433 7975
 address:
   street: Weat Dazhi Street
-  city: Harbin
-  region: Heilongjiang
+  city: Hong Kong
+  region: Hong Kong
   postcode: ''
-  country: China
-  country_code: CN
+  country: Hong Kong, SAR
+  country_code: +852
 coordinates:
-  latitude: '44°04'
-  longitude: '125°42'
+  latitude: '22.3193° N'
+  longitude: '114.1694° E'
 directions: A02
 office_hours:
   - 'All day long'
