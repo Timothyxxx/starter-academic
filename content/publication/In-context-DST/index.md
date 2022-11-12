@@ -12,10 +12,10 @@ authors:
   - Noah A. Smith
   - Mari Ostendorf
 author_notes: []
-publication: "arxiv"
+publication: Conference on Empirical Methods in Natural Language Processing *EMNLP 2022*, Findings
 summary: ""
 url_dataset: ""
-url_project: "https://github.com/Yushi-Hu/IC-DST"
+url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
@@ -32,5 +32,5 @@ date: 2022-03-16T00:00:00Z
 url_slides: ""
 publishDate: 2022-03-16T00:00:00Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/Yushi-Hu/IC-DST"
 ---

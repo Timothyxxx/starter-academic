@@ -5,8 +5,8 @@ url_pdf: "https://arxiv.org/abs/2210.02875"
 publication_types:
   - "1"
 authors:
-  - Zhoujun Cheng\*
-  - Tianbao Xie\*
+  - "Zhoujun Cheng*"
+  - "Tianbao Xie*"
   - Peng Shi
   - Chengzu Li
   - Rahul Nadkarni

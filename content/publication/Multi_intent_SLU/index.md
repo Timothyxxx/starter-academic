@@ -12,7 +12,7 @@ authors:
   - Wanxiang Che
   - Ting Liu
 author_notes: []
-publication: In the annual meeting of the Association for Computational Linguistic *Proceedings of ACL 2021*
+publication: In the annual meeting of the Association for Computational Linguistic *Proceedings of ACL 2021*, Long Paper, Oral
 summary: ""
 url_dataset: ""
 url_project: ""

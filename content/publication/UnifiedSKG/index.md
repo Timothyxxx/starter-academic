@@ -5,8 +5,8 @@ url_pdf: "https://arxiv.org/abs/2201.05966"
 publication_types:
   - "1"
 authors:
-  - Tianbao Xie**
-  - Chen Henry Wu**
+  - "Tianbao Xie*"
+  - "Chen Henry Wu*"
   - Peng Shi
   - Ruiqi Zhong
   - Torsten Scholak

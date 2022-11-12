@@ -12,7 +12,7 @@ authors:
   - Xiao Xu
   - Wanxiang Che
 author_notes: []
-publication: Conference on Empirical Methods in Natural Language Processing  *EMNLP 2021*
+publication: Conference on Empirical Methods in Natural Language Processing  *EMNLP 2021*, Long Paper
 summary: ""
 url_dataset: "https://github.com/yizhen20133868/CI-ToD"
 url_project: ""
