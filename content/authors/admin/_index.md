@@ -1,7 +1,7 @@
 ---
 title: Tianbao Xie
 role: Ph.D. student of the University of Hong Kong
-avatar_filename: avatar_2.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Artificial Intelligence, Computational
   Linguistics,  Natural Language Processing, Dialogue System and Semantic
   Parsing.
