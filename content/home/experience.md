@@ -39,15 +39,6 @@ experience:
     date_start: '2020-03-05'
     date_end: '2022-06-15'
     description: 
-        
-  - title: Undergraduate Student
-    company: Harbin Institute of Technology
-    company_url: ''
-    company_logo: hit
-    location: Harbin, China
-    date_start: '2018-08-15'
-    date_end: '2022-06-15'
-    description: 
 
 design:
   columns: '2'
