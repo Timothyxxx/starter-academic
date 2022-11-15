@@ -36,8 +36,7 @@ email: tianbaoxiexxx@gmail.com
 superuser: true
 highlight_name: false
 ---
-I am a first year Ph.D. student of the [Department of Computer Science](https://www.cs.hku.hk/) at [the University of Hong Kong](https://www.hku.hk/), also a member of [HKU NLP Group](https://nlp.cs.hku.hk/).
-I advised guided by Dr. [Tao Yu(core)](https://taoyds.github.io/) and Dr. [Lingpeng Kong](https://ikekonglp.github.io/). 
+I am a first year Ph.D. student of [the University of Hong Kong](https://www.hku.hk/), guided by Dr. [Tao Yu(core)](https://taoyds.github.io/) and Dr. [Lingpeng Kong](https://ikekonglp.github.io/). 
 Previously, I have done research intern at [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/), [Harbin Institute of Technology](http://en.hit.edu.cn/), supervised by Ph.D. candidate [Libo Qin](http://ir.hit.edu.cn/~lbqin/) and Prof. [Wanxiang Che](http://ir.hit.edu.cn/~car/). 
 
 My main research interest is in Natural Language Processing. I care about building SaaS services of NLP for companies especially start-ups to empower their employees. Currently I focus most on manipulating language model to solve/revolute code generation task and traditional semantic parsing task([Binder](https://lm-code-binder.github.io/)), which is essential for building interface between human and structured knowledge([UnifiedSKG](https://github.com/HKUNLP/UnifiedSKG)) in Data Science. I am also very familiar with the techniques about building task-oriented dialog system(Spoken Language Understanding: [Awesome-SLU survey](https://github.com/yizhen20133868/Awesome-SLU-Survey), Dialogue State Tracking: [IC-DST](https://arxiv.org/abs/2203.08568) etc.), is an example of a game changer by a large language model(2022). 
