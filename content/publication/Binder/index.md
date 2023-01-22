@@ -18,7 +18,7 @@ authors:
   - Noah A. Smith
   - Tao Yu
 author_notes: []
-publication: arxiv
+publication: International Conference on Learning Representations 2023 Spotlight
 summary: ""
 url_dataset: ""
 url_project: "https://lm-code-binder.github.io/"
