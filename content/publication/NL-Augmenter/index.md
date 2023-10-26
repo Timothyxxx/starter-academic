@@ -24,7 +24,7 @@ url_source: ""
 url_video: ""
 title: "NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:

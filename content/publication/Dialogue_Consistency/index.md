@@ -21,7 +21,7 @@ url_source: ""
 url_video: ""
 title: "Don't be Contradicted with Anything! CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:

@@ -21,7 +21,7 @@ url_source: ""
 url_video: ""
 title: "GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling."
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
