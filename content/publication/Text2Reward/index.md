@@ -14,7 +14,7 @@ authors:
   - Yanchao Yang
   - Tao Yu
 author_notes: []
-publication: arXiv
+publication: ICLR 2024 Spotlight
 summary: ""
 url_dataset: ""
 url_project: "https://text-to-reward.github.io/"

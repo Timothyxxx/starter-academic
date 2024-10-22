@@ -22,11 +22,11 @@ authors:
   - Caiming Xiong
   - Tao Yu
 author_notes: []
-publication: arXiv
+publication: COLM 2024
 summary: ""
 url_dataset: ""
 url_project: "https://chat.xlang.ai/"
-publication_short: "OpenAgents"
+publication_short: "COLM 2024"
 url_source: ""
 url_video: ""
 title: "OpenAgents: An Open Platform for Language Agents in the Wild"
