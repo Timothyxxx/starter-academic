@@ -27,7 +27,7 @@ publication: NeurIPS 2024 Dataset and Benchmark Track
 summary: ""
 url_dataset: "https://github.com/xlang-ai/OSWorld/tree/main/evaluation_examples"
 url_project: "https://os-world.github.io/"
-publication_short: "NeurIPS 2024 D\&B Track"
+publication_short: "NeurIPS 2024 D&B Track"
 url_source: ""
 url_video: "https://twitter.com/TianbaoX/status/1778781521253667267"
 title: "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
