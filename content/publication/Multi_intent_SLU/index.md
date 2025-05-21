@@ -3,7 +3,7 @@ abstract: ""
 slides: ""
 url_pdf: "https://arxiv.org/abs/2106.01925"
 publication_types:
-  - "1"
+  - "3"
 authors:
   - Libo Qin
   - Fuxuan Wei

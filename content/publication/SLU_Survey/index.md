@@ -3,7 +3,7 @@ abstract: ""
 slides: ""
 url_pdf: "https://arxiv.org/abs/2103.03095"
 publication_types:
-  - "1"
+  - "3"
 authors:
   - Libo Qin
   - Tianbao Xie
@@ -20,7 +20,7 @@ url_video: ""
 title: "A Survey on Spoken Language Understanding: Recent Advances and New
   Frontiers"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:

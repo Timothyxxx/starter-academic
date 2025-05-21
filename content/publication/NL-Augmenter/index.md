@@ -3,7 +3,7 @@ abstract: ""
 slides: ""
 url_pdf: "https://arxiv.org/abs/2112.02721"
 publication_types:
-  - "1"
+  - "3"
 authors:
   - Kaustubh D. Dhole
   - And many other authors
