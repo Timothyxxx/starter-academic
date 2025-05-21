@@ -28,7 +28,6 @@ experience:
     company_logo: qwen
     location: Singapore
     date_start: '2024-10-31'
-    date_end: 'now'
     description: 
 
   - title: Research Intern
