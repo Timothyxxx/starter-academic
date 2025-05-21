@@ -38,9 +38,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2024-04-11T00:00:00Z
+date: 2025-05-19T00:00:00Z
 url_slides: ""
-publishDate: 2024-04-11T00:00:00Z
+publishDate: 2025-05-19T00:00:00Z
 url_poster: ""
-url_code: "https://github.com/xlang-ai/OSWorld"
+url_code: "https://github.com/xlang-ai/OSWorld-G"
 ---

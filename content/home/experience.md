@@ -26,7 +26,7 @@ experience:
     company: Qwen Team, Alibaba Cloud
     company_url: ''
     company_logo: qwen
-    location: Singapore
+    location: Beijing, China
     date_start: '2024-10-31'
     description: 
 
