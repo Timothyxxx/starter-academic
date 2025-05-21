@@ -22,7 +22,7 @@ authors:
   - Caiming Xiong
 
 author_notes: []
-publication: Arrive
+publication: NeurIPS 2025 Under Submission
 summary: ""
 url_dataset: "https://github.com/xlang-ai/OSWorld-G"
 url_project: "https://osworld-grounding.github.io/"
