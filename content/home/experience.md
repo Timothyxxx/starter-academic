@@ -23,22 +23,23 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
-    company: Natural Language Processing Group (HKU-NLP), HKU
+    company: Qwen Team, Alibaba Cloud
     company_url: ''
-    company_logo: hku
-    location: Hong Kong SAR, China
-    date_start: '2021-05-23'
-    date_end: '2021-08-28'
+    company_logo: qwen
+    location: Singapore
+    date_start: '2024-10-31'
+    date_end: 'now'
     description: 
-        
+
   - title: Research Intern
-    company: Research Center for Social Computing and Information Retrieval (SCIR), HIT
+    company: Salesforce
     company_url: ''
-    company_logo: ir
-    location: Harbin, China
-    date_start: '2020-03-05'
-    date_end: '2022-06-15'
+    company_logo: salesforce
+    location: Singapore
+    date_start: '2024-05-06'
+    date_end: '2024-11-15'
     description: 
+
 
 design:
   columns: '2'
